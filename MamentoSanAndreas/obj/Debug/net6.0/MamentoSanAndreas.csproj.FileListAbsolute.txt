@@ -1,0 +1,15 @@
+/Users/ivan.stoyanov/Projects/MamentoSanAndreas/MamentoSanAndreas/bin/Debug/net6.0/MamentoSanAndreas
+/Users/ivan.stoyanov/Projects/MamentoSanAndreas/MamentoSanAndreas/bin/Debug/net6.0/MamentoSanAndreas.deps.json
+/Users/ivan.stoyanov/Projects/MamentoSanAndreas/MamentoSanAndreas/bin/Debug/net6.0/MamentoSanAndreas.runtimeconfig.json
+/Users/ivan.stoyanov/Projects/MamentoSanAndreas/MamentoSanAndreas/bin/Debug/net6.0/MamentoSanAndreas.dll
+/Users/ivan.stoyanov/Projects/MamentoSanAndreas/MamentoSanAndreas/bin/Debug/net6.0/MamentoSanAndreas.pdb
+/Users/ivan.stoyanov/Projects/MamentoSanAndreas/MamentoSanAndreas/obj/Debug/net6.0/MamentoSanAndreas.csproj.AssemblyReference.cache
+/Users/ivan.stoyanov/Projects/MamentoSanAndreas/MamentoSanAndreas/obj/Debug/net6.0/MamentoSanAndreas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan.stoyanov/Projects/MamentoSanAndreas/MamentoSanAndreas/obj/Debug/net6.0/MamentoSanAndreas.AssemblyInfoInputs.cache
+/Users/ivan.stoyanov/Projects/MamentoSanAndreas/MamentoSanAndreas/obj/Debug/net6.0/MamentoSanAndreas.AssemblyInfo.cs
+/Users/ivan.stoyanov/Projects/MamentoSanAndreas/MamentoSanAndreas/obj/Debug/net6.0/MamentoSanAndreas.csproj.CoreCompileInputs.cache
+/Users/ivan.stoyanov/Projects/MamentoSanAndreas/MamentoSanAndreas/obj/Debug/net6.0/MamentoSanAndreas.dll
+/Users/ivan.stoyanov/Projects/MamentoSanAndreas/MamentoSanAndreas/obj/Debug/net6.0/refint/MamentoSanAndreas.dll
+/Users/ivan.stoyanov/Projects/MamentoSanAndreas/MamentoSanAndreas/obj/Debug/net6.0/MamentoSanAndreas.pdb
+/Users/ivan.stoyanov/Projects/MamentoSanAndreas/MamentoSanAndreas/obj/Debug/net6.0/MamentoSanAndreas.genruntimeconfig.cache
+/Users/ivan.stoyanov/Projects/MamentoSanAndreas/MamentoSanAndreas/obj/Debug/net6.0/ref/MamentoSanAndreas.dll
